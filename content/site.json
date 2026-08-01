@@ -1,33 +1,29 @@
 {
   "church": {
-    "name": "Grace Community Church",
-    "shortName": "GCC",
-    "tagline": "A welcoming church in [Your Town]",
+    "name": "Faith Missionary Baptist Church",
+    "shortName": "FMBC",
+    "tagline": "A welcoming church in Shelby",
     "logo": "",
-    "phone": "(555) 123-4567",
-    "email": "kbennett2000@hotmail.com",
-    "officeHours": "Mon–Thu, 9:00 AM – 4:00 PM",
+    "phone": "(704) 482-8088",
+    "email": "hello@fmbc.church",
+    "officeHours": "By appointment — call or email",
     "address": {
-      "street": "123 Main Street",
-      "city": "Your Town",
-      "state": "ST",
-      "zip": "12345"
+      "street": "822 Churchill Drive",
+      "city": "Shelby",
+      "state": "NC",
+      "zip": "28150"
     },
     "services": [
       {
-        "name": "MAIN SERVICE",
+        "name": "Morning Worship Service",
         "day": "Sunday",
-        "time": "10:00 AM",
-        "note": "Coffee & fellowship before and after the service",
+        "time": "11:00 AM",
+        "note": "Welcome to our morning worship service",
         "primary": true
-      },
-      {
-        "name": "2nd sunday service",
-        "day": "Sunday",
-        "time": "5:00 pm",
-        "note": "second service on sunday",
-        "primary": false
       }
+    ],
+    "social": [
+      { "platform": "facebook", "url": "https://www.facebook.com/fmbc.church" }
     ]
   },
   "home": {
